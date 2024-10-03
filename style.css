@@ -99,7 +99,7 @@ section {
   height: 100vh;
   width: 100%;
   background: url(img/background.png);
-  background-position: top right;
+  background-position: center;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -496,6 +496,7 @@ form .send-btn:hover {
 
   .hero {
     height: 90vh;
+    background-image: url('img/backgroundmb.png');
     background-position: center;
   }
 }
